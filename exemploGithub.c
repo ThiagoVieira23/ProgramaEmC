@@ -5,7 +5,7 @@ int main(){
 	int nota=0, contador = 1;
 	
 
-	while(contador < 11)
+	while(contador < 6)
 	{
 		printf("Digite a nota do aluno %d:",contador);
 		scanf("%d[contador]", &nota);
