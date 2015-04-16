@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(){
-	int nota, contador = 1;
+	int nota=0, contador = 1;
 	
 
 	while(contador < 11)
