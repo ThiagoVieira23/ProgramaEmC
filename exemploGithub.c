@@ -5,7 +5,7 @@ int main(){
 	int nota=0, contador = 1;
 	
 
-	for(contador=0;contador<6;contador ++)
+	for(contador=6;contador>0;contador --)
 	{
 		printf("Digite a nota do aluno %d:",contador);
 		scanf("%d[contador]", &nota);
